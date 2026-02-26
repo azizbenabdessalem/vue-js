@@ -1,0 +1,9 @@
+npm create vue@latest 
+y
+nom_projet : aziz.vue
+type_script
+enter
+
+cd aziz.vue
+npm install
+npm run dev
